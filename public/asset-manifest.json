@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.cfbea048.js",
+    "static/js/453.fd011859.chunk.js": "/static/js/453.fd011859.chunk.js",
+    "static/media/pepeSad.jpg": "/static/media/pepeSad.d92d7726438e22596467.jpg",
+    "static/media/pepeHappy.jpg": "/static/media/pepeHappy.0dc80db0891035795569.jpg",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.cfbea048.js.map": "/static/js/main.cfbea048.js.map",
+    "453.fd011859.chunk.js.map": "/static/js/453.fd011859.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cfbea048.js"
+  ]
+}
